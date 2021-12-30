@@ -9,7 +9,6 @@ description = "Rezept für das Baguette was ich immer mache"
 showFullContent = false
 +++
 Dieses Rezept basiert auf [diesem](https://www.youtube.com/watch?v=5txAX1U_FLA) Video, [dieser](/img/rezept.jpg) Anleitung auf einer Mehlpackung und meiner persönlicher Erfahrung,.
-##### Zeitaufwand
 
 ##### Zutaten
 *reicht für 4 Baguettes*
