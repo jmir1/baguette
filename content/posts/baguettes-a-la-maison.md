@@ -1,6 +1,6 @@
 +++
 title = "Baguettes à la maison - Rezept"
-date = "2021-12-30T19:07:23+01:00"
+date = "2021-12-30T22:13:23+01:00"
 author = "jmir"
 cover = ""
 tags = []
@@ -8,7 +8,7 @@ keywords = ["", ""]
 description = "Rezept für das Baguette was ich immer mache"
 showFullContent = false
 +++
-Dieses Rezept basiert auf [diesem](https://www.youtube.com/watch?v=5txAX1U_FLA) Video, [dieser](/img/rezept.jpg) Anleitung auf einer Mehlpackung und meiner persönlicher Erfahrung,.
+Dieses Rezept basiert auf [diesem](https://www.youtube.com/watch?v=5txAX1U_FLA) Video, [dieser](/img/rezept.jpg) Anleitung auf einer Mehlpackung und meiner persönlicher Erfahrung.
 
 ##### Zutaten
 *reicht für 4 Baguettes*
